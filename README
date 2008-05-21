@@ -2,17 +2,7 @@ NAME
 	Bluepay::Bluepay20DailyReport
 
 VERSION
-	Version: 0.10
-	April 2008
-
-SYNOPSIS
-	Bluepay::Bluepay20DailyReport - The BluePay 2.0 Daily Report interface
-
-NAME
-	Bluepay::Bluepay20DailyReport
-
-VERSION
-	Version: 0.10
+	Version: 0.15
 	April 2008
 
 SYNOPSIS
@@ -96,4 +86,4 @@ SUPPORT/WARRANTY
 	useful, Bluepay would love it if you donated them back to us!
 
 KNOWN BUGS
-	This is version 0.10 of Bluepay::Bluepay20DailyReport.  There are currently no known bugs.
+	This is version 0.15 of Bluepay::Bluepay20DailyReport.  There are currently no known bugs.

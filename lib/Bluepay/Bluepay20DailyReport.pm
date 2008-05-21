@@ -1,6 +1,6 @@
 package Bluepay::Bluepay20DailyReport;
 
-$VERSION   = '0.10';
+$VERSION   = '0.15';
 
 use strict;
 use warnings;
@@ -22,7 +22,7 @@ Bluepay::Bluepay20DailyReport
 
 =head1 VERSION
 
-Version: 0.10
+Version: 0.15
 April 2008
 
 =head1 SYNOPSIS
@@ -189,7 +189,7 @@ useful, Bluepay would love it if you donated them back to us!
 
 =head1 KNOWN BUGS:
 
-This is version 0.10 of Bluepay::Bluepay20DailyReport.  There are currently no known bugs.
+This is version 0.15 of Bluepay::Bluepay20DailyReport.  There are currently no known bugs.
 
 =cut
 
