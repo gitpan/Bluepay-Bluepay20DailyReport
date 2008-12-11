@@ -2,3 +2,7 @@ Revision history for Perl extension Bluepay::Bluepay20DailyReport.
 
 0.15  Tue May 06 2008
 	- original version;
+
+0.20  Wed Dec 10 2008
+	- added Crypt::SSLeay in meta data
+

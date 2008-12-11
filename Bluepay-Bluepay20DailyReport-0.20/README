@@ -2,8 +2,8 @@ NAME
 	Bluepay::Bluepay20DailyReport
 
 VERSION
-	Version: 0.15
-	April 2008
+	Version: 0.20
+	December 2008
 
 SYNOPSIS
 	Bluepay::Bluepay20DailyReport - The BluePay 2.0 Daily Report interface
@@ -56,6 +56,7 @@ MODULES
 	can run.  You can use cpan to install the modules.  They are:
 	 - Digest::MD5
 	 - LWP::UserAgent
+	 - Crypt::SSLeay
 	 - URI::Escape
 	 - Text::CSV
 
@@ -72,6 +73,8 @@ COPYRIGHTS
 		Available at: http://search.cpan.org/~gaas/Digest-MD5-2.36/MD5.pm
 	 - The LWP::UserAgent module is Copyright (c) 1995-2008 Gisle Aas.
 		Available at: http://search.cpan.org/~gaas/libwww-perl-5.812/lib/LWP/UserAgent.pm
+	 - The Crypt::SSLeay module is Copyright (c) 2006-2007 David Landgren.
+		Available at: http://search.cpan.org/~dland/Crypt-SSLeay-0.57/SSLeay.pm
 	 - The URI::Escape module is Copyright (c) 1995-2004 Gisle Aas.
 		Available at: http://search.cpan.org/~gaas/URI-1.36/URI/Escape.pm
 	 - The Text::CSV module is Copyright (c) 2007-2008 Makamaka Hannyaharamitu.
@@ -86,4 +89,4 @@ SUPPORT/WARRANTY
 	useful, Bluepay would love it if you donated them back to us!
 
 KNOWN BUGS
-	This is version 0.15 of Bluepay::Bluepay20DailyReport.  There are currently no known bugs.
+	This is version 0.20 of Bluepay::Bluepay20DailyReport.  There are currently no known bugs.
